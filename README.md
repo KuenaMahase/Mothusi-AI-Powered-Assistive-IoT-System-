@@ -1,1 +1,2 @@
 # Mothusi-AI-Powered-Assistive-IoT-System-
+Mothusi is an AI-powered assistive assistant designed to support individuals with disabilities, especially those with visual or motor impairments. Using YOLO for object recognition, Mothusi detects and identifies objects in real-time via a camera. It processes voice commands through a microphone and provides immediate verbal feedback using a speaker, enabling users to interact with their environment more independently.
