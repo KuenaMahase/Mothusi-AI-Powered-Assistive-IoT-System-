@@ -17,7 +17,7 @@ For the first Milestone,object recognition using a pre-trained AI-model, YOLOv8.
     • pip install opencv-python
 
 3. Run this command to run the code:
-    • python3 /file path/Test.py
+    • python3 /file path/test2.py
 
 NEEDED HARDWARE: Raspberry Pi 4 model B( with Raspberry OS 64-bit), Keyboard, Mouse,Monitor and mini HDMI
 
