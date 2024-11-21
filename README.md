@@ -107,6 +107,7 @@ This function performs:
 Milestone Achievements
 
     Integrated speech recognition for command-based control of object detection.
+    Ability to do text-to-speech inorder to voice out what the model has detected so that the user can hear
     Refined the input/output integration to ensure smooth communication between:
         The microphone for voice commands.
         The IP Webcam for video input.
